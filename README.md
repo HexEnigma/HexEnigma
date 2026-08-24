@@ -21,34 +21,34 @@ Long term, I aim to expand my expertise into Cybersecurity and combine strong so
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 
-"Python" (https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-"JavaScript" (https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-"C" (https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC)
-"C++" (https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 
-Frontend
+### Frontend
 
-"HTML5" (https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-"CSS3" (https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-"React" (https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Tailwind CSS" (https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
-Backend & Database
+### Backend & Database
 
-"Django" (https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=44B78B)
-"Django REST Framework" (https://img.shields.io/badge/Django_REST-0f172a?style=for-the-badge&logo=django&logoColor=44B78B)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-"MySQL" (https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Django](https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=44B78B)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-0f172a?style=for-the-badge&logo=django&logoColor=44B78B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-Tools
+### Tools
 
-"Git" (https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
-"GitHub" (https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF)
-"VS Code" (https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VS Code](https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 ---
 
