@@ -136,7 +136,7 @@ I'm always interested in connecting with developers, collaborating on projects, 
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> LinkedIn: [Hamim Shahriar](https://www.linkedin.com/in/hamim-shahriar)
 - <img src="https://cdn.simpleicons.org/gmail" width="16" /> Email: [hamimshahriar17@gmail.com](mailto:hamimshahriar17@gmail.com)
-- <img src="https://cdn.simpleicons.org/googlechrome" width="16" /> Portfolio: [Coming soon]()
+- <img src="https://cdn.simpleicons.org/googlechrome" width="16" /> Portfolio: [Hamim Shahriar](https://hamimshahriar.vercel.app/)
 - <img src="https://cdn.simpleicons.org/facebook" width="16" /> Facebook: [Hamim Shahriar](https://www.facebook.com/share/1DeMb18Pda/)
 - <img src="https://cdn.simpleicons.org/github/white" width="16" /> GitHub: [HexEnigma](https://github.com/HexEnigma)
 
