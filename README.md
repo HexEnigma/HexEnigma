@@ -71,7 +71,7 @@ Highlights:
 - ⚡ Redis-powered real-time infrastructure
 - 🖥️ Modern responsive frontend
 
-🔗 "View CoLab Studio on GitHub" (https://github.com/HexEnigma/CoLab_Studio)
+🔗 [View CoLab Studio on GitHub](https://github.com/HexEnigma/CoLab_Studio)
 
 ---
 
@@ -83,7 +83,7 @@ A web-based habit tracking application designed to help users organize, monitor,
 
 Tech: PHP · MySQL · HTML · CSS · JavaScript
 
-🔗 "View Repository" (https://github.com/HexEnigma/habit_tracker)
+🔗 [View Repository](https://github.com/HexEnigma/habit_tracker)
 
 ---
 
@@ -102,15 +102,15 @@ Key features:
 
 Tech: Python · FFmpeg · Automation
 
-🔗 "View Repository" (https://github.com/HexEnigma/vidsub-automator)
+🔗 [View Repository](https://github.com/HexEnigma/vidsub-automator)
 
 ---
 
-📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HexEnigma&show_icons=true&theme=radical&hide_border=true" alt="Hamim's GitHub Stats" />
-</p>---
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HexEnigma&show_icons=true&theme=radical)
+
+---
 
 🎯 Current Direction
 
@@ -134,11 +134,11 @@ My long-term goal is to take these software engineering foundations into Cyberse
 
 I'm always interested in connecting with developers, collaborating on projects, and learning from the community.
 
-- 💼 LinkedIn: "Hamim Shahriar" (https://www.linkedin.com/in/hamim-shahriar)
-- 📧 Email: "hamimshahriar17@gmail.com" (mailto:hamimshahriar17@gmail.com)
-- 🌐 Portfolio: "Coming soon"
-- 📘 Facebook: "Hamim Shahriar" (https://www.facebook.com/share/1DeMb18Pda/)
-- 🐙 GitHub: "HexEnigma" (https://github.com/HexEnigma)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> LinkedIn: [Hamim Shahriar](https://www.linkedin.com/in/hamim-shahriar)
+- <img src="https://cdn.simpleicons.org/gmail" width="16" /> Email: [hamimshahriar17@gmail.com](mailto:hamimshahriar17@gmail.com)
+- <img src="https://cdn.simpleicons.org/googlechrome" width="16" /> Portfolio: [Coming soon]()
+- <img src="https://cdn.simpleicons.org/facebook" width="16" /> Facebook: [Hamim Shahriar](https://www.facebook.com/share/1DeMb18Pda/)
+- <img src="https://cdn.simpleicons.org/github/white" width="16" /> GitHub: [HexEnigma](https://github.com/HexEnigma)
 
 ---
 
